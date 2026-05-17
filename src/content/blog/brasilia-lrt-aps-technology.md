@@ -5,13 +5,14 @@ pubDate: "May 16 2026"
 heroImage: "/hero/brasilia-lrt-aps-technology.jpg"
 hero_credit: "AI-generated image based on The Rail Post editorial brief"
 hero_license: "ai-generated"
-hero_source_url: "https://railpost.news"
 alt: "Modern light rail vehicle running through a tree-lined avenue in Brasilia without overhead wires"
 source_name: "Metropoles, Via Trolebus, Agencia Gov and CNN Brasil"
 source_url: "https://www.metropoles.com/distrito-federal/brasilia-em-trilhos-veja-novo-projeto-do-vlt-entre-a-w3-e-o-aeroporto"
 tags: ["lrt", "brasilia", "aps", "urban-mobility", "heritage"]
-categoria_macro: "Urban Transit"
+categoria_macro: "modality"
 lang: "en"
+interlink_url: "https://mundotrilhos.com/blog/vlt-brasilia-tecnologia-aps/"
+interlink_lang: "pt-br"
 author: "The Rail Post Desk"
 draft: false
 ---

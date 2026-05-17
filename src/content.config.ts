@@ -21,6 +21,8 @@ const blog = defineCollection({
 		alt: z.string().optional(),
 		source_name: z.string().optional(),
 		source_url: z.string().url().optional(),
+		interlink_url: z.string().url().optional(),
+		interlink_lang: z.enum(['pt-br', 'en', 'es']).optional(),
 		author: z.string().optional(),
 		draft: z.boolean().optional(),
 	}),

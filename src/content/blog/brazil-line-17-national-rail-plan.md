@@ -5,13 +5,14 @@ pubDate: "May 16 2026"
 heroImage: "/hero/brazil-line-17-national-rail-plan.jpg"
 hero_credit: "AI-generated image based on The Rail Post editorial brief"
 hero_license: "ai-generated"
-hero_source_url: "https://railpost.news"
 alt: "Modern elevated monorail in a Brazilian urban corridor"
 source_name: "Agencia Gov, Agencia SP, CNN Brasil and MASSA"
 source_url: "https://agenciagov.ebc.com.br/noticias/202401/novo-pac-garante-recursos-para-o-transporte-ferroviario-e-acelera-retomada-do-setor-no-brasil"
 tags: ["high-speed-rail", "monorail", "brazil", "infrastructure", "freight"]
-categoria_macro: "Trains"
+categoria_macro: "modality"
 lang: "en"
+interlink_url: "https://mundotrilhos.com/blog/linha-17-ouro-plano-nacional-ferrovias/"
+interlink_lang: "pt-br"
 author: "The Rail Post Desk"
 draft: false
 ---
