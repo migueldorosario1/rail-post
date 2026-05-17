@@ -16,6 +16,13 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
+.env.*
+
+# secrets / credentials hardening
+*.key
+*.pem
+secrets/
+.vercel/
 
 # macOS-specific files
 .DS_Store
