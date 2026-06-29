@@ -2,7 +2,7 @@
 title: "Brazil pours R$100 billion into five mega-corridors to quadruple rail freight share by 2035"
 description: "Brazil's R$100 billion National Railways Plan aims to quadruple the freight rail share from 17% to 40% by 2035, stitching together five mega-corridors that cross the continent and break the logistical trap that has long drained agricultural competitiveness."
 pubDate: "Jun 05 2026"
-heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/trilhos/geral-general/brazil-pours-r100-billion-into-five-mega-corridors-to-quadruple-rail-freight-sha.jpg"
+heroImage: "/hero/brazil-pours-r100-billion-into-five-mega-corridors-to-quadruple-rail-freight-sha.jpg"
 hero_credit: "Wikimedia Commons"
 hero_license: "cc-by-sa"
 alt: "Documentary photography about Brazil pours R$100 billion into five mega-corridors to quadruple rail freight share by 2035"
@@ -14,7 +14,7 @@ lang: "en"
 interlink_url: "https://mundotrilhos.com/blog/dos-17-aos-40-como-o-plano-nacional-de-ferrovias-de-r-100-bilhoes-pretende-remod/"
 interlink_lang: "pt-br"
 author: "The Rail Post Desk"
-draft: true
+draft: false
 ---
 A chronicle of concrete, steel, and logistical ambition—how a continent-sized country is finally stitching its agricultural heartland to the sea with rails.
 
