@@ -1,0 +1,35 @@
+---
+title: "Title: The train Brazil can't build"
+description: "Title: The train Brazil can't build"
+pubDate: "2026-07-20"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/infraestrutura-infrastructure/title-the-train-brazil-cant-build.jpg"
+hero_credit: "Foto: Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Documentary photography about Title: The train Brazil can't build"
+source_name: "Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Ferrovia para ligar o Atlântico ao Pacífico: veja o que se sabe até agora do projeto do Brasil com a China | G1, Trem-bala SP-RJ tem obras adiadas para 2028"
+source_url: "https://www.cnnbrasil.com.br/economia/macroeconomia/com-investimento-de-r-100-bi-governo-lancara-plano-nacional-de-ferrovias/"
+tags: ["infrastructure", "brazil"]
+categoria_macro: "infraestrutura"
+lang: "en"
+author: "The Rail Post Desk"
+interlink_url: "https://mundotrilhos.com/blog/titulo-o-trem-que-o-brasil-nao-consegue-construir/"
+interlink_lang: "pt-br"
+draft: false
+---
+Editorial: Eighteen years of promises, zero kilometers of tracks and an eternal restart: the SP-RJ bullet train exposes the gap between political ambition and the country's real engineering.
+Text: Every great city reveals its intelligence by how it moves people. The São Paulo–Rio de Janeiro corridor, the backbone of the Brazilian economy, for decades has laid bare the opposite: a collective intelligence paralyzed before the track that never arrives.
+The high-speed train between the two metropolises remains the most eloquent monument to the national inability to turn rhetoric into concrete. The projected maximum speed of 320 km/h contrasts with the absolute immobility of the construction site, which never existed.
+As pointed out by the Gazeta do Povo survey, the project reaches Luiz Inácio Lula da Silva's second term with a new postponement and a significant conceptual shift. The federal government now states that the project does not belong to it and does not foresee direct participation in financing an undertaking budgeted at R$ 60 billion.
+The designed length of 417 kilometers would have four stations — São Paulo, São José dos Campos, Volta Redonda and Rio de Janeiro — and would promise tickets between R$ 300 and R$ 500. The estimated travel time of less than two hours seems like a mathematical provocation when one notes that, by 2025, not a single kilometer of track has been built on the corridor.
+The SP-RJ bullet train project was officially canceled in 2023 by the federal government (Ordinance No. 1,022/2023 of the Ministry of Transport), with the definitive shelving of the bidding process and the Union's waiver to proceed with the HSR model. No concessionaire authorized by ANTT for this corridor exists; the only tender issued (2011) was judicially annulled in 2014, and no new agent has been designated since then.
+Economist Cláudio Frischtak, president of Inter.B Consultoria Internacional de Negócios, points out that Brazil has never operated railway technology remotely comparable to the leap required by a high-speed train. National engineering is used to freight trains traveling between 80 km/h and 100 km/h — a technical universe completely separate from the 300 km/h of a contemporary HSR.
+Only four countries dominate this technology at a continental scale — China, France, Japan and Spain — and all built their high-speed networks in contexts of abundant state subsidies. Spain, often cited as a reference, expanded its network anchored on massive transfers from the European Union over two decades, a fiscal scenario unimaginable for Brazil in permanent budget crisis.
+The crossing of the Serra do Mar and the urban interferences at both ends of the route are engineering challenges that experts classify as enormous and that would demand massive import of know-how. Thomaz Schoeffel, director-secretary of the Brazilian Railway Preservation Association, warns that the country lacks railway engineering prepared for a work of this magnitude, which would further pressure implementation and maintenance costs.
+The most rational technical alternative, according to Frischtak, remains a medium-speed train of about 150 km/h with shared use of the tracks for freight transport at night. This model would allow two distinct concessionaires operating on the same corridor, diluting risks and making the project more palatable for private investors without requiring a government subsidy incompatible with the fiscal moment.
+The proposal to modernize the existing line for average speeds around 150 km/h would reduce the journey time to approximately three hours, a less spectacular but reality-anchored solution. Former president Dilma Rousseff dismissed this alternative during her administration, opting to maintain the dream of the full bullet train, and the project sank into successive failed auctions in the following years.
+The 2021 Railways Law, sanctioned under the Jair Bolsonaro government, opened the way for private authorizations without the need for traditional concession, but did not solve the central problem of economic viability. The National Bank for Economic and Social Development would act as a financial agent, without direct contribution of Union resources, and the structuring of a consortium with European and Chinese companies remains an intention without signed contracts.
+The history of promises goes back to 2007, when the project joined the Growth Acceleration Program with the explicit goal of operating by the 2014 World Cup. Eighteen years later, the bullet train mirrors a persistent feature of infrastructure planning in Brazil: the confusion between political announcement and real execution capacity.
+While the HSR agonizes in successive restarts, CNN Brasil reported that the federal government is preparing a National Railway Plan with an investment of approximately R$ 100 billion, focused on freight corridors. However, this plan was discarded in 2025 after analysis by the National Treasury, which pointed out fiscal infeasibility, and there is no decree, provisional measure, or approved budget that institutes it.
+The contrast is instructive: the country manages to structure railway concessions for commodity transportation, but has stumbled for almost two decades in the attempt to transport people efficiently between its two largest cities.
+The transcontinental railway that Brazil and China began studying in 2025, connecting the port of Ilhéus to the Peruvian port of Chancay, reveals that the appetite for large infrastructure projects exists when there are partners willing to invest. The domestic bullet train, however, remains orphan of a financial model that convinces investors and of an executive engineering that transforms the 417 kilometers of route into real tracks.
+The travel time of less than two hours promised by the HSR remains just a mathematical abstraction while the medium-speed alternative with shared freight use remains discarded by political inertia. Brazil continues to wait for a train that, so far, only exists in campaign speeches and presentation slides.
