@@ -1,0 +1,37 @@
+---
+title: "Brasil aposta em trilhos chineses para destravar R$ 100 bilhões em ferrovias de carga"
+description: "Brasil aposta em trilhos chineses para destravar R$ 100 bilhões em ferrovias de carga"
+pubDate: "2026-07-21"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/carga-freight-rail/brasil-aposta-em-trilhos-chineses-para-destravar-r-100-bilhoes-em-ferrovias-de-c.jpg"
+hero_credit: "Foto: Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Documentary photography about Brasil aposta em trilhos chineses para destravar R$ 100 bilhões em ferrovias de carga"
+source_name: "Ferrovia para ligar o Atlântico ao Pacífico: veja o que se sabe até agora do projeto do Brasil com a China | G1, Com investimento de R$ 100 bi, governo lançará Plano Nacional de Ferrovias | CNN Brasil, Brasil tenta, de novo, expandir as ferrovias. Mas ainda falta combinar com os chineses"
+source_url: "https://g1.globo.com/economia/noticia/2025/07/08/ferrovia-para-ligar-o-atlantico-ao-pacifico-veja-o-que-se-sabe-ate-agora-do-projeto-do-brasil-com-a-china.ghtml"
+tags: ["infraestrutura", "brasil"]
+categoria_macro: "carga"
+lang: "en"
+author: "The Rail Post Desk"
+interlink_url: "https://mundotrilhos.com/blog/brasil-aposta-em-trilhos-chineses-para-destravar-r-100-bilhoes-em-ferrovias-de-c/"
+interlink_lang: "pt-br"
+draft: false
+---
+A modernidade não é abstrata. Ela tem lastro, bitola, energia e direção.
+
+A modernidade não é abstrata. Ela tem lastro, bitola, energia e direção. No Brasil, a promessa de transformar grãos em desenvolvimento passa necessariamente pelos trilhos — e o governo aposta suas fichas em um plano de R$ 100 bilhões e na engenharia financeira chinesa para fazer a carga fluir do Centro-Oeste aos portos.
+
+O Plano Nacional de Ferrovias, apresentado ao presidente Luiz Inácio Lula da Silva pelo ministro dos Transportes, Renan Filho, prevê a concessão de cinco grandes projetos que somam 4.700 quilômetros de novos trilhos, conforme reportagem da <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/com-investimento-de-r-100-bi-governo-lancara-plano-nacional-de-ferrovias/" target="_blank">CNN Brasil</a>. O Corredor Leste-Oeste, com 2.400 km, ambiciona conectar Ilhéus (BA) a Lucas do Rio Verde (MT) juntando os traçados da Fiol e da Fico. O prolongamento da Ferrovia Norte-Sul pretende avançar 477 km de Açailândia (MA) até o porto de Vila do Conde (PA), criando uma alternativa à saturada Estrada de Ferro Carajás.
+
+A lista inclui ainda o Anel Ferroviário do Sudeste, entre Vitória (ES) e Itaboraí (RJ). A Transnordestina, que liga Salgueiro (PE) a Suape (PE), está em operação parcial desde 2014, mas o trecho completo até Cabedelo (PB) não tem data de conclusão definida. A Ferrogrão, projeto de 933 km entre Sinop (MT) e Itaituba (PA), segue com seu licenciamento ambiental sob responsabilidade do Ibama, com licença prévia condicionada e sem licença de instalação até hoje. O investimento total estimado pelo governo é de aproximadamente R$ 100 bilhões, com a União bancando de 20% a 30% dos aportes para tornar as concessões atrativas. Mas a matemática segue implacável: cada quilômetro de ferrovia no Brasil custa, em média, R$ 27 milhões, mais de três vezes o valor de uma rodovia, segundo a A&M Infra, como apontou o <a href="https://investnews.com.br/negocios/brasil-tenta-de-novo-expandir-as-ferrovias-mas-ainda-falta-combinar-com-os-chineses/" target="_blank">InvestNews</a>.
+
+Enquanto o cronograma de leilões patina — o primeiro está previsto para setembro, mas ainda sem edital publicado —, o governo busca acionar uma alavanca externa. Em julho de 2025, houve especulação sobre um memorando de entendimento entre Brasil e China para estudar uma ferrovia transcontinental que ligaria o porto de Ilhéus ao porto de Chancay, no Peru, encurtando de 40 para 28 dias a viagem de cargas até a Ásia, segundo o <a href="https://g1.globo.com/economia/noticia/2025/07/08/ferrovia-para-ligar-o-atlantico-ao-pacifico-veja-o-que-se-sabe-ate-agora-do-projeto-do-brasil-com-a-china.ghtml" target="_blank">G1</a>. No entanto, não há registro público, documento oficial, nota do MRE, ou sequer menção credível em fontes primárias sobre tal acordo. O secretário nacional de Transporte Ferroviário do Brasil, Leonardo Ribeiro, classificou o movimento como “um passo estratégico” e um gesto técnico-diplomático para aproximar continentes.
+
+A iniciativa se apoia na intermodalidade que os chineses já praticam no porto de Chancay, inaugurado em 2024 com financiamento do “Cinturão e Rota” — a chamada Nova Rota da Seda —, mas o Brasil resiste a uma adesão institucional ao programa. A grande interrogação técnica permanece sobre a compatibilidade de bitolas, já que o padrão brasileiro (majoritariamente 1,60 m) não conversa com o trilho internacional de 1,435 m usado na China. Resolver esse desencontro exigirá um salto de engenharia que o país não pratica há décadas.
+
+O peso das commodities dita o ritmo. Em 2025, as ferrovias brasileiras transportaram 406,6 milhões de toneladas de minério de ferro — 73% de toda a carga sobre trilhos — e, sozinha, a Vale movimentou 301 milhões de toneladas num modelo verticalizado que amarra mina, ferrovia e porto, como explica Solange Costa, advogada do escritório Mello Torres. O agronegócio, que o Plano Nacional pretende agraciar, representou apenas 104,4 milhões de toneladas (19% do total), e é nessa fatia que a engenharia financeira chinesa pode fazer diferença.
+
+O secretário-executivo do Ministério dos Transportes, George Santoro, já havia revelado que cinco companhias chinesas estudavam projetos ferroviários ou rodoviários no Brasil. A estatal CCCC, que atua no Porto São Luís (MA), manifestou interesse especial pelo corredor Fico-Fiol, e a CRRC — maior fabricante de trens do mundo — prepara uma fábrica em Araraquara (SP) para produzir desde bogies até composições completas, mas o apetite ainda não se traduziu em proposta firme. Enquanto isso, o governo negocia com o BNDES uma linha de financiamento com prazos de até 60 anos e carência alongada, para cobrir o vazio de receita que persiste até que os trilhos comecem a operar.
+
+O exemplo do trem-bala Rio–São Paulo mostra o tamanho do desafio quando a infraestrutura exige tecnologia de ponta. O projeto, orçado em R$ 60 bilhões e com velocidade projetada de 320 km/h, teve o início das obras adiado para 2028 e ainda não possui o EIA/Rima aprovado pelo Ibama, como registrou a <a href="https://www.gazetadopovo.com.br/brasil/promessa-do-pt-obras-adiadas-trem-bala-sao-paulo-rio-de-janeiro/" target="_blank">Gazeta do Povo</a>. O economista Cláudio Frischtak, da Inter.B Consultoria, lembra que o país jamais dominou a engenharia de alta velocidade e que o salto técnico — do taper do nariz aerodinâmico à catenária de alimentação elétrica — é radical para um parque ferroviário acostumado a 80 km/h.
+
+Thomaz Schoeffel, diretor-secretário da Associação Brasileira de Preservação Ferroviária, reforça que nem os metrôs são genuinamente nacionais e que uma obra dessa envergadura exigiria importação maciça de know-how. Para o transporte de carga, no entanto, a realidade é menos romântica e mais brutal: o custo do frete encarece o grão que alimenta a China, e a ineficiência logística corrói a competitividade do agronegócio brasileiro. Sem uma engenharia financeira que case o capital chinês com subsídio estatal, o Plano Nacional de Ferrovias corre o risco de se juntar à coleção de mapas ambiciosos que nunca viraram lastro, bitola e direção.
